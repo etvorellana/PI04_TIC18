@@ -31,4 +31,5 @@
 *.out
 *.app
 
-src/output/*
+# Pastas com binarios
+src/output/* 
