@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Pastas com binarios
+src/output/* 
